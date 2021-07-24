@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Saira+Condensed:wght@100;200;300;400;500;600&display=swap');
+h1,h2,h3{
+ font-family: 'Lobster', cursive;
+}
+p{
+ font-family: 'Saira Condensed', sans-serif;
+}
+.see-all{
+    color: orange;
+}
+header,section{
+    padding-bottom: 50px;
+}
+
+.buy-now-btn{
+    background:black;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 10px;
+}
+
+.buy-now-btn:hover{
+    background: orange;
+    color: #fff;
+}
+
+.carousel-inner{
+    background-color: rgba(238, 211, 160,3);
+    border-radius: 10px;
+}
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 20px;
+}
+
+.single-item{
+    background: #f6f6f6;
+    padding: 15px 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
